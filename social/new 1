@@ -1,11 +1,4 @@
-## CC-AIKS [2020.6.1-至今]
 
-* **上位机软件开发**
-
-	负责基于python的tkinter GUI框架开发相关软件,完整软件打包及安装引导程序脚本编写</br>
-	
-	1.**串口助手**
-		![AIKS-SW-1](../img/AIKS-SW-1.png)
 	2.**测试仪器 单点测试软件 结合Excel配置**
 		<div align=center>
 		<img src="../../img/AIKS-SW-2.png" width="100%" " />
