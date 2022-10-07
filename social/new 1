@@ -1,3 +1,28 @@
+## CC-AIKS [2020.6.1-至今]
+
+* **上位机软件开发**
+
+	负责基于python的tkinter GUI框架开发相关软件,完整软件打包及安装引导程序脚本编写</br>
+	
+	1.**串口助手**
+		![AIKS-SW-1](../img/AIKS-SW-1.png)
+	2.**测试仪器 单点测试软件 结合Excel配置**
+		<div align=center>
+		<img src="../../img/AIKS-SW-2.png" width="100%" " />
+		</div>
+	3.**温度曲线绘制软件 结合Excel配置**
+		<div align=center>
+		<img src="../../img/AIKS-SW-3.png" width="100%" " />
+		</div>
+	4.**二极管反向恢复时间参数自动解析软件**
+		<div align=center>
+		<img src="../../img/AIKS-SW-4.png" width="100%" " />
+		</div>
+	5.**基于解释Excel内容的自动化软件**
+				<div align=center>
+		<img src="../../img/AIKS-SW-5.png" width="100%" " />
+		</div>
+	
 * **完成订单**
 	
 	根据客户需求完成对应定制设备调试，主要参与**温度控制器**、**高压电源**、**二极管方向恢复时间测试仪器**、**氙灯电源**相关设备调试
